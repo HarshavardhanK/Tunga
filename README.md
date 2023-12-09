@@ -27,7 +27,7 @@ ollama run llama2
 #### Llama Index 
 - Indexing and Vector Storage library
 #### Langchain
-- TODO
+- Serves the Ollama Llama2 7B model
 #### ChromaDB 
 - Vector Database
 
