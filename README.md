@@ -31,4 +31,6 @@ ollama run llama2
 #### ChromaDB 
 - Vector Database
 
-Create a database of PDFs (we've used some chapters from Artificial Intelligence: A Modern Approach) and save it in a directory 'data' at the root of this project. This creates a private knowledge database for the LLM
+Create a database of PDFs (we've used some chapters from Artificial Intelligence: A Modern Approach) and save it in a directory 'data' at the root of this project. This creates a private knowledge database for the LLM. 
+
+Place the data directory at the root of the project folder. Run main.ipynb found at the src directory. 
